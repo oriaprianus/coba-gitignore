@@ -1,0 +1,8 @@
+config.txt
+//untuk file//
+
+data/ 
+//untuk data//
+
+*.exe
+//untuk file yang berekstensi .exe//
